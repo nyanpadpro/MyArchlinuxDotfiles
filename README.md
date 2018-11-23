@@ -8,13 +8,21 @@ nyanpadpro@gmail.com
 このファイル郡は個人的なArchlinuxの設定をまとめたものです。
 
 ## Install Software
-- Window Manager
-i3
+- Window Manager  
+i3  
 
-- Filer
-Ranger
+- Filer  
+Ranger  
 
-- Picture viewer
-feh
+- Picture viewer  
+feh  
 
+- Editor 
+vim  
+VScode  
+  
+- Python  
+pipenv
+  
+- Docker  
 
